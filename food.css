@@ -1,0 +1,40 @@
+body {
+    /* background-image: url(./double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese-realistic-image-ultra-hd-high-design-very-detailed-free-photo.jpg); */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+nav ul {
+    list-style: none;
+    display: flex
+}
+nav ul li {
+    margin-right: 20px;
+}
+.hero {
+    background-image: url('./double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese-realistic-image-ultra-hd-high-design-very-detailed-free-photo.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px 20px;
+    color: #fff;
+}
+.menu {
+    padding: 20px;
+}
+.menu-item {
+    margin-bottom: 20px;
+}
+.about, .contact {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
